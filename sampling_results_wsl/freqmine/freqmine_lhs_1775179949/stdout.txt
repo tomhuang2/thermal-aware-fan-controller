@@ -1,0 +1,43 @@
+[PARSEC] Benchmarks to run:  parsec.freqmine
+
+[PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
+[PARSEC] Deleting old run directory.
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'simmedium'.
+kosarak_500k.dat
+[PARSEC] Running 'time /home/slipduck/thermal-aware-fan-controller/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc/bin/freqmine kosarak_500k.dat 410':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+transaction number is 500000
+1522
+13083
+44649
+118072
+337195
+904434
+1946385
+3281416
+4382543
+4694188
+4068013
+2864888
+1636526
+750500
+270740
+74394
+14841
+1992
+156
+5
+the data preparation cost 0.080020 seconds, the FPgrowth cost 0.977950 seconds
+
+real	0m1.061s
+user	0m0.975s
+sys	0m0.051s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.

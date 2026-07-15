@@ -1,0 +1,30 @@
+[PARSEC] Benchmarks to run:  parsec.dedup
+
+[PARSEC] [========== Running benchmark parsec.dedup [1] ==========]
+[PARSEC] Deleting old run directory.
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'test'.
+test.dat
+[PARSEC] Running 'time /home/slipduck/thermal-aware-fan-controller/parsec/pkgs/kernels/dedup/inst/amd64-linux.gcc/bin/dedup -c -p -v -t 4 -i test.dat -o output.dat.ddp':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Total input size:                        6.00 Bytes
+Total output size:                      28.00 Bytes
+Effective compression factor:            0.21x
+
+Mean data chunk size:                    0.06 KB (stddev: 0.00 KB)
+Amount of duplicate chunks:              0.00%
+Data size after deduplication:           6.00 Bytes (compression factor: 1.00x)
+Data size after compression:            14.00 Bytes (compression factor: 0.43x)
+Output overhead:                        50.00%
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.005s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.

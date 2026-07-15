@@ -1,0 +1,4 @@
+[submodule "parsec"]
+	path = parsec
+	url = https://github.com/cirosantilli/parsec-benchmark
+	branch = master

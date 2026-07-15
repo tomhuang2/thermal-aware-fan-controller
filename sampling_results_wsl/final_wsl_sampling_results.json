@@ -1,0 +1,772 @@
+{
+  "blackscholes": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 1.8777390791108226,
+      "runtime_sec": 0.5325553540023975,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 2.014829247971992,
+      "runtime_sec": 0.49631997401593253,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 2.145590534735662,
+      "runtime_sec": 0.4660721530090086,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 1.9610280926585164,
+      "runtime_sec": 0.5099366009817459,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 1.7584906213317115,
+      "runtime_sec": 0.5686695100157522,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 1.556560401428387,
+      "runtime_sec": 0.642442142998334,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 1.9610938628212413,
+      "runtime_sec": 0.5099194989888929,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 1.9695132777033177,
+      "runtime_sec": 0.5077396589913405,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 1.9938585765892076,
+      "runtime_sec": 0.5015400850097649,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 1.8043722357408805,
+      "runtime_sec": 0.5542093699914403,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 1.7916977820829671,
+      "runtime_sec": 0.5581298419856466,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 2.0545129045207213,
+      "runtime_sec": 0.4867333750007674,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ],
+  "bodytrack": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 1.432946131294557,
+      "runtime_sec": 0.6978629399673082,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 1.5442812288646444,
+      "runtime_sec": 0.647550446970854,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 1.3891850052759056,
+      "runtime_sec": 0.7198465259862132,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 0.842060935651309,
+      "runtime_sec": 1.1875625120010227,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 0.6238773016051672,
+      "runtime_sec": 1.6028792799916118,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 0.43280720248031684,
+      "runtime_sec": 2.3104975940077566,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 1.005694821372922,
+      "runtime_sec": 0.9943374259746633,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 1.2089129183889036,
+      "runtime_sec": 0.8271894400240853,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 1.3090113869011661,
+      "runtime_sec": 0.7639352949918248,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 1.542068980993638,
+      "runtime_sec": 0.6484794210409746,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 1.897720677825314,
+      "runtime_sec": 0.526947939011734,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 1.9474952288188576,
+      "runtime_sec": 0.5134800769737922,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ],
+  "canneal": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 0.7452951766328818,
+      "runtime_sec": 1.3417502639931627,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 2.203387183662999,
+      "runtime_sec": 0.4538466990343295,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 2.145558780055087,
+      "runtime_sec": 0.4660790509660728,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 0.3355556497219294,
+      "runtime_sec": 2.980131614021957,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 0.34141218663525313,
+      "runtime_sec": 2.9290108529967256,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 0.2645064462586901,
+      "runtime_sec": 3.780626196996309,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 0.6045227624351937,
+      "runtime_sec": 1.654197430005297,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 0.377363934004527,
+      "runtime_sec": 2.6499617740046233,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 0.6198998868088683,
+      "runtime_sec": 1.6131637080106884,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 0.6930933182222616,
+      "runtime_sec": 1.4428071570000611,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 2.203274235235269,
+      "runtime_sec": 0.4538699649856426,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 2.131799061118069,
+      "runtime_sec": 0.46908736298792064,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ],
+  "dedup": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 1.4578900939819643,
+      "runtime_sec": 0.6859227620298043,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 2.119935234054055,
+      "runtime_sec": 0.47171252401312813,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 2.000484661272328,
+      "runtime_sec": 0.499878864036873,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 1.1238947344326098,
+      "runtime_sec": 0.8897630439605564,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 0.8146494540263614,
+      "runtime_sec": 1.2275218439754099,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 0.507781148695432,
+      "runtime_sec": 1.9693523530149832,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 1.0075509728500236,
+      "runtime_sec": 0.9925056170322932,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 1.1462507853465618,
+      "runtime_sec": 0.8724094349890947,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 1.3635095653650982,
+      "runtime_sec": 0.7334015289670788,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 1.5418914308328622,
+      "runtime_sec": 0.6485540940193459,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 2.151990714136961,
+      "runtime_sec": 0.46468601998640224,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 2.161262810385926,
+      "runtime_sec": 0.4626924570184201,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ],
+  "freqmine": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 1.7950167742580487,
+      "runtime_sec": 0.5570978579926305,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 2.120326097351452,
+      "runtime_sec": 0.47162556799594313,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 2.1925678877750814,
+      "runtime_sec": 0.4560862199869007,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 1.2959096115021227,
+      "runtime_sec": 0.7716587570030242,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 1.0139114439598884,
+      "runtime_sec": 0.9862794289947487,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 0.6432312004002493,
+      "runtime_sec": 1.5546509550185874,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 1.3319025716093027,
+      "runtime_sec": 0.7508056680089794,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 1.358364930906069,
+      "runtime_sec": 0.7361791940056719,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 1.4999038066299146,
+      "runtime_sec": 0.6667094220174477,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 1.6352116455962005,
+      "runtime_sec": 0.6115416329703294,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 2.0436482138037855,
+      "runtime_sec": 0.48932100605452433,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 2.2175943294494713,
+      "runtime_sec": 0.45093910401919857,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ],
+  "streamcluster": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 1.4130546093137226,
+      "runtime_sec": 0.7076867329888046,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 2.269761128257077,
+      "runtime_sec": 0.4405749959987588,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 2.2890007152122465,
+      "runtime_sec": 0.43687186000170186,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 0.8773855524615752,
+      "runtime_sec": 1.1397497909492813,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 0.6405660123160455,
+      "runtime_sec": 1.5611193550284952,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 0.3994926317325128,
+      "runtime_sec": 2.503175079007633,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 1.1383791184864607,
+      "runtime_sec": 0.8784419739968143,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 0.7762948927168626,
+      "runtime_sec": 1.2881702680024318,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 1.4599725239678916,
+      "runtime_sec": 0.6849443969549611,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 1.6138495402683446,
+      "runtime_sec": 0.619636450021062,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 2.290386217957001,
+      "runtime_sec": 0.43660758703481406,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 2.2968026239670842,
+      "runtime_sec": 0.43538786901626736,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ],
+  "swaptions": [
+    {
+      "threads": 8,
+      "input_size": "simsmall",
+      "score": 2.0769572776319736,
+      "runtime_sec": 0.4814735530526377,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "test",
+      "score": 2.2040243813917537,
+      "runtime_sec": 0.45371548901312053,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "test",
+      "score": 2.073362034203011,
+      "runtime_sec": 0.48230843601049855,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simmedium",
+      "score": 1.123342169228041,
+      "runtime_sec": 0.8902007130091079,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simmedium",
+      "score": 0.9702315232477294,
+      "runtime_sec": 1.0306818280369043,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simmedium",
+      "score": 0.6900139106325327,
+      "runtime_sec": 1.4492461450281553,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 1,
+      "input_size": "simsmall",
+      "score": 1.4106591010103395,
+      "runtime_sec": 0.7088884899858385,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 8,
+      "input_size": "simmedium",
+      "score": 1.647757935839075,
+      "runtime_sec": 0.6068852579919621,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "simsmall",
+      "score": 1.7023074811816181,
+      "runtime_sec": 0.5874379400047474,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "simsmall",
+      "score": 1.9231614496714673,
+      "runtime_sec": 0.5199771450133994,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 2,
+      "input_size": "test",
+      "score": 2.202039415081449,
+      "runtime_sec": 0.4541244780411944,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    },
+    {
+      "threads": 4,
+      "input_size": "test",
+      "score": 2.228389150324617,
+      "runtime_sec": 0.4487546530435793,
+      "roi_time_sec": 0.0,
+      "exit_code": 0,
+      "run_type": "lhs"
+    }
+  ]
+}
